@@ -60,23 +60,27 @@ The Python script uses the **Boto3** AWS SDK to:
 
 ### EC2 Instance
 
+<img width="1366" height="634" alt="ec_2 instace" src="https://github.com/user-attachments/assets/58e86b69-31c9-4627-833e-174482efca7d" />
 
 
 ### EBS Volume
 
+<img width="1359" height="652" alt="Volume_screenshot" src="https://github.com/user-attachments/assets/4f847f15-348b-4dc8-95f7-8ec4479368ce" />
 
 
 ### EBS Snapshot
 
+<img width="1363" height="646" alt="snapshot-ss" src="https://github.com/user-attachments/assets/a3a0485e-8e62-48f1-a65f-5826c0b4d7a9" />
 
 
 ### Successful Lambda Execution
 
+<img width="1351" height="609" alt="success-output" src="https://github.com/user-attachments/assets/9c7a8b09-1c43-4957-8e6e-c181dd42b8b9" />
 
 
 ### Snapshot Deleted
 
-
+<img width="1360" height="641" alt="success-2" src="https://github.com/user-attachments/assets/6ec47ef7-19d2-46ac-b7dc-d841c1429990" />
 
 ---
 
